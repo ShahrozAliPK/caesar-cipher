@@ -23,3 +23,4 @@ Let's say that your secret message contains a word <i>Hello</i>.So what cipher d
     doesn't makes any sense right? This is called <b>Cipher Encryption</b></p>
   <br>
   <br>
+  <p>So this exactly how cipher works for encrypting or decrypting a text, sentence or word.</p>
